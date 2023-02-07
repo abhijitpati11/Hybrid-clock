@@ -1,0 +1,9 @@
+{
+  We already created a analog clock and learn to design and build it so this time 
+  we will try to upgrade this by adding better UI and a digital display if the 
+  time. 
+}
+
+{
+  we will use simple HTML, CSS and javaScript
+}
